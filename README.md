@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rahilahmed95/rahilahmed95/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Rahil Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
