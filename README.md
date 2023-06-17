@@ -2,7 +2,15 @@
 <h1 align="center">Hi 👋, I'm Rahil Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=noto-serif&weight=700&pause=800&color=463CD2&width=1100&center=true&lines=Welcome+To+My+Github+Profile;Full+Stack+Web+Developer;let's+collaborate+and+develop+our+abilities.)](https://git.io/typing-svg)
+
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cbbe488e126999cfc48d2ebfc5818ddf523463ad1b087e1e75ec7e34617a43c4/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4c69676874436f6e7374616e744275636b657965627574746572666c792d73697a655f726573747269637465642e676966">
+
+
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
